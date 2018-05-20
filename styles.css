@@ -1,0 +1,144 @@
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+    background-color: #777777;
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/dark-grey-terrazzo.png");
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    width: 1150px;
+    height: 900px;
+   
+    
+}
+
+header {
+    background-color: #ffffff;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times 'Times New Roman', Times, serif, serif;
+    width: 960px;
+    height: 80px;
+    border-bottom: 3px double #cccccc;
+    margin-bottom: 20px;
+    padding: 0px 200px;
+    
+  }
+  
+  
+
+
+.p { 
+    background-color:#ffffff;
+    border-color: #dddddd;
+    width: 960px;
+    height: 400px;
+    text-align: justify;
+
+     font-family: 'Open Sans', sans-serif;
+     font-size: 16px;
+     font-weight: bold;
+     line-height:35px;
+     letter-spacing: 1px;
+     margin-left: 200px;
+     padding: 20px;
+
+}
+
+
+footer {
+    
+    background-color: #666666;
+   
+    padding: 20px;
+    border-top: 10px solid #4aaaa5;
+    text-align: center;
+    
+  
+}
+
+.sbm {
+    width: 202px;
+    height: 50px;
+    top: 25px;
+    left: 400px;
+    bottom: 50px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    float: left;
+    
+}
+.about {position: relative;
+    left: 250px;
+    text-decoration: none;
+    border-style: solid;
+    border-width: 0px 2px 0px 0px;
+    border-color: #666666;
+    margin: 10px 0px 0px 0px;
+    color: #666666;
+   
+   } 
+
+.portfolio {position: relative;
+    left: 275px;
+    text-decoration: none;
+    color: #666666;
+} 
+.contact {
+    position: relative;
+    left: 300px;
+    text-decoration: none;
+    color: #666666;
+
+}
+.aboutme {
+    position: relative;
+    color: #4aaaa5;
+    font-size : 30px;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: #666666;
+    padding: 20px;
+    text-align: left;
+
+}
+
+portfolio {
+    text-align: right;
+
+} 
+
+
+button {
+    background-color: black;
+    color: yellow;
+}
+
+
+
+
+button:hover {
+    
+    color: purple;
+    opacity: .75;
+    font-size: 200px;
+}
+
+
+button:focus {
+    color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
